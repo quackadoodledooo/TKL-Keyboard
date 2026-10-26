@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "13bb1c4a-6c3b-4084-a6a7-aa7917825a57")
 	(paper "A3")
+	(title_block
+		(title "TKL Keyboard")
+		(date "2026-10-25")
+		(rev "1")
+		(company "Saurya Shrestha")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
 			(pin_names
